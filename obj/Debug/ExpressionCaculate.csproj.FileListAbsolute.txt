@@ -1,0 +1,14 @@
+D:\C#\ExpressionCaculate\ExpressionCaculate\bin\Debug\ExpressionCaculate.exe.config
+D:\C#\ExpressionCaculate\ExpressionCaculate\bin\Debug\ExpressionCaculate.exe
+D:\C#\ExpressionCaculate\ExpressionCaculate\bin\Debug\ExpressionCaculate.pdb
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\ExpressionCaculate.csprojAssemblyReference.cache
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\MainWindow.g.cs
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\App.g.cs
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\ExpressionCaculate_MarkupCompile.cache
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\ExpressionCaculate_MarkupCompile.lref
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\MainWindow.baml
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\ExpressionCaculate.g.resources
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\ExpressionCaculate.Properties.Resources.resources
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\ExpressionCaculate.csproj.GenerateResource.cache
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\ExpressionCaculate.exe
+D:\C#\ExpressionCaculate\ExpressionCaculate\obj\Debug\ExpressionCaculate.pdb
